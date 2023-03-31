@@ -1,5 +1,5 @@
 public class MyFirstClass {
     public MyFirstClass(){
-        system.debug('My Fisrt Classs');
+        system.debug('My Fisrt Classs1');
     }
 }
